@@ -1,7 +1,7 @@
 IEE380
 
 ## Requisitos funcionales 
-| Requisito | Prioridad | Descripción |
+| **Requisito** | **Prioridad** | **Descripción** |
 | :-------: | :-------: | :-----------------------------: |
 | RF1 | ALTA | Importar datos externos desde ficheros de texto plano |
 | RF2 | ALTA | Almacenar datos de eventos deportivos: texto plano y BBDD SQL |
