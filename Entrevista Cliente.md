@@ -1,4 +1,4 @@
-# Datos Deportivos
+# Datos Deportivos Instrucciones Profesor
 ## Referencia de proyecto [TIZONA](https://git.institutomilitar.com/proyectos-finales/tizona/-/blob/master/README.md)
 > no se implementa nada, es documentarlo
 
@@ -9,10 +9,11 @@
 **Despliegue aplicación:**  
 **Base de datos:** habrá una base de datos en **Firebase**  
 **Transparencias** [SLIDES](https://slides.com/)
+**Serialización** JSON XML (posible uso cbor???)
 
 
 ## Exposiciones
-1º **Minimo Producto Viable** (MVP)  
+1º **Producto Minimo Viable** (MVP)  
 2º demo 1 **despliegue en internet**  
 3º demo2 **version final**  
 
@@ -20,33 +21,41 @@
 sprint 1
 sprint 2
 
-## Estructura datos
+## Estructura código
 + carpeta raiz para hacer el proyecto
 +   estara la api
 +   el build gradle
 +   frontend(ya no es angular)
 
 
-# Entrevista Cliente
-entre alternativas tienen que ser coherentes, sin que las estimaciones se desvien demasiado sobretodo en precio y tiempo 
+# Entrevista Cliente Juan
+Alternativas tienen que ser coherentes, sin que las estimaciones se desvien demasiado sobretodo en precio y tiempo 
 
-SERVIDOR GRATUITO (sera firebase)
-    coste si empiza a ser de pago por x consultas
+## Servidor
+GRATUITO (sera Firebase) en principio
+POSIOBILIDAD DE PAGO si empizan a realizarse numerosas consultas
 
-DOS COSAS IMORTANTES ANTES DE LOS PARTIDOS (predefinidas)
+## Consultas
+### Plataformas datos
+bet365, 
+### Predefinidas
+DOS COSAS IMORTANTES ANTES DE LOS PARTIDOS
  + diferencia de goles, puntos
  + empates entre equipos
 
-FUTBOL Y BALONCESTO NBA
-CARRERAS GALGOS 
+### Personalizadas
+datos DE "RACHA" SABER QUE TENDENCIA TIENEN
+## Deportes
+Futbol, NBA, carreras galgos 
+#
 
-DATOS DE "RACHA" SABER QUE TENDENCIA TIENEN
+
 
 no importan tanto los datos de eventos
 
 mas importante apustas 1-4
 
-bet365 usa
+
 
 resultado empates,,, siempre hubo 1 por jornada 
 
@@ -67,19 +76,18 @@ Indice al Guión de Dirección y Gestión de Proyectos
 
 Alternativas al proyecto, gratis, gratis con posiblidad pago, pago
 
-reunion pte hacer una reunion hasta el final del evs
-reunion pte cosas spueden solventar sobre la 
-reunion pte ers y definir mvp
 
-final marzo exposicion ers
-hasta semana santa, la seman de antes ersmvp datos deportivos
 
-despues de semana santa proyecto individual evs evr...
+# Fechas
+**22 FEBRERO** nos juntamos y tenemos que tener unificado el MindMap de todos los grupos  
+**3 MARZO** reunion cliente  
+**FINALES MARZO** exposicion Especificación Requisitos Software (ERS)  
+**SEMANA ANTERIOR SSANTA** (4-8 ABRIL) **ERS y MVP** 
+**DESPUES SSANTA** EVS EVR del proyecto individual
++ reunion pte hasta el final del Estudio de Viabilidad del Sistema
++ reunion pte cosas que sepueden solventar sobre la 
++ reunion pte Estudio Requisitis Software y definir Producto minimo Viable
 
-3 de marzo reunion cliente
 
-hacer un solo MINDMAP de todo el curso
 
-posible uso cbor
 
-22 FEBRERO NOS VOLVEMOS A JUNTAR Y TENER HECHO UN MINDMAP
