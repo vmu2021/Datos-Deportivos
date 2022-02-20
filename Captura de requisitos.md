@@ -29,9 +29,9 @@ futbol, baloncesto, carreras de galgos
 goles, tarjetas, expulsiones, descalificaciones, retiradas, averiás, lesiones, etc.
 
 ### Fuentes
-football-data.co.uk
-bet365
-casas de apuestas
++ football-data.co.uk  
++ bet365  
++ casas de apuestas  
 
 ## Procesamiento de datos
 
