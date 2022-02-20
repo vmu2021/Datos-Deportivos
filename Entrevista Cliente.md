@@ -36,8 +36,13 @@ GRATUITO (sera Firebase) en principio
 POSIOBILIDAD DE PAGO si empizan a realizarse numerosas consultas
 
 ## Consultas
+
 ### Plataformas datos
-bet365, 
++ football-data.co.uk  
++ bet365  
++ casas de apuestas  
+
+
 ### Predefinidas
 DOS COSAS IMORTANTES ANTES DE LOS PARTIDOS
  + diferencia de goles, puntos
