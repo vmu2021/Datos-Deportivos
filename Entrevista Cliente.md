@@ -44,6 +44,7 @@ un solo usuario
 + histórico de racha
 + temporadas anteriores "2"
 + calculo de eventos singulares
++ empates (ej: en cada jornada hubo 1)
 
 ### Importación datos
 + football-data.co.uk  
@@ -55,7 +56,6 @@ un solo usuario
 ### Predefinidas
 DOS COSAS IMORTANTES ANTES DE LOS PARTIDOS
  + diferencia de goles, puntos
- + empates
  + empates entre equipos
  + cuotas
 
@@ -82,7 +82,6 @@ mas importante apustas 1-4
 
 
 
-resultado empates,,, siempre hubo 1 por jornada 
 
 tarjetas rojas si se estan produciendo en cada jornada
 
