@@ -16,7 +16,7 @@ Alternativas tienen que ser coherentes, sin que las estimaciones se desvien dema
 ## Sucesos
 goles, tarjetas, expulsiones, descalificaciones, retiradas, averiás, lesiones, etc.
 
-## Eventos
+## Datos Eventos
 de dos contrincantes o más 
 + fecha
 + hora
