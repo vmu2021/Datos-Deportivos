@@ -49,7 +49,7 @@ ver los resultados de un evento
   
   
 ### Predefinidas
-DOS COSAS IMORTANTES ANTES DE LOS PARTIDOS
+DOS COSAS IMPORTANTES ANTES DE LOS PARTIDOS
  + diferencia de goles, puntos
  + empates entre equipos  
 
