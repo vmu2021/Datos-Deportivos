@@ -25,8 +25,9 @@ de dos contrincantes o más
 + resultado
 
 ## Persistencia
-GRATUITO (sera Firebase) en principio
-POSIOBILIDAD DE PAGO si empiezan a realizarse numerosas consultas
++ GRATUITO (sera Firebase) en principio
++ POSIBILIDAD DE PAGO si empiezan a realizarse numerosas consultas
+
 
 ## Usuarios
 un solo usuario
