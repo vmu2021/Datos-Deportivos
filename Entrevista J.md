@@ -79,8 +79,8 @@ Fácil e intuitiva
 ## Fechas (por confirmar)
 **22 FEBRERO** nos juntamos y tenemos que tener unificado el MindMap de todos los grupos  
 **3 MARZO** reunion cliente  
-**FINALES MARZO** exposicion Especificación Requisitos Software (ERS) y Producto Minimo Viable (MVP) 
-**SEMANA ANTERIOR SSANTA** (4-8 ABRIL) **ERS y MVP** 
+**FINALES MARZO** exposicion Especificación Requisitos Software (ERS) y Producto Minimo Viable (MVP)  
+**SEMANA ANTERIOR SSANTA** (4-8 ABRIL) **ERS y MVP**  
 **DESPUES SSANTA** EVS EVR del proyecto individual
 
 ## Reuniones pendientes
