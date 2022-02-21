@@ -55,6 +55,7 @@ DOS COSAS IMORTANTES ANTES DE LOS PARTIDOS
  + diferencia de goles, puntos
  + empates entre equipos
  + cuotas
+ + podrán hacerse antes del encuentro, a mitad y antes de que termine
 
 ## Deportes
 + Futbol  
