@@ -7,9 +7,10 @@
 **Código** se usa **GITHUB** para subirlo
 **Despliegue API:** lo veremos
 **Despliegue aplicación:**  
-**Base de datos:** habrá una base de datos en **Firebase**  
+**Base de datos:** habrá una base de datos gratuita en **Firebase**  
 **Transparencias** [SLIDES](https://slides.com/)
 **Serialización** JSON XML (posible uso cbor???)
+
 
 
 ## Exposiciones
@@ -31,30 +32,49 @@ sprint 2
 # Entrevista Cliente Juan
 Alternativas tienen que ser coherentes, sin que las estimaciones se desvien demasiado sobretodo en precio y tiempo 
 
-## Servidor
+## Persinstencia
 GRATUITO (sera Firebase) en principio
-POSIOBILIDAD DE PAGO si empizan a realizarse numerosas consultas
+POSIOBILIDAD DE PAGO si empiezan a realizarse numerosas consultas
 
-## Consultas
+## Usuarios
+un solo usuario
 
-### Plataformas datos
+## Estadísticas
++ jornada
++ histórico de racha
++ temporadas anteriores "2"
++ calculo de eventos singulares
+
+### Importación datos
 + football-data.co.uk  
 + bet365  
 + casas de apuestas  
 
+## Consultas
 
 ### Predefinidas
 DOS COSAS IMORTANTES ANTES DE LOS PARTIDOS
  + diferencia de goles, puntos
+ + empates
  + empates entre equipos
+ + cuotas
 
 ### Personalizadas
-datos DE "RACHA" SABER QUE TENDENCIA TIENEN
++ goles
++ corner
++ tarjetas
++ ACTUALIZACION EN MEDIO DEL PARTIDO
+
 ## Deportes
 Futbol, NBA, carreras galgos 
-#
 
+## Plataformas
++ movil
++ ordenador
 
+## Alternativas
++ gratuitas
++ pago
 
 no importan tanto los datos de eventos
 
