@@ -1,17 +1,14 @@
 # Entrevista cliente J
-para distintos fines
 
-10:24 consultas exportaciones
-podre preguntarle al programa empates y diferencia de goles
-averia si hay coches
-le interesan competiciones por ejemplo de isports que tambien se puede apostar
+p: DATOS QUE GENERE LA APLICACION
+r: para distintos fines, poder preguntarle al programa empates y diferencia de goles,
+averia si hay coches,le pueden llegar a interesar competiciones por ejemplo de isports que tambien se puede apostar
 
-exportar los datos para que fines
-para venderlos+recomendaciones apuestas
-unirse a grupos con un dinero que se pone en comun
-cuanta mas xxx de venta mejor
+p: FINES DE LAS EXPORTACION
+para vender las recomendaciones de las apuestas
+poder unirse a grupos con un dinero que se pone en comun
 
-presupuesto
+p: PRESUPUESTO QUE SE DA AL CLIENTE
 dominio 20€
 suscripciones 45€ a plataformas de pago 
 
