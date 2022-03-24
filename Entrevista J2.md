@@ -12,10 +12,11 @@ p: PRESUPUESTO QUE SE DA AL CLIENTE
 dominio 20€
 suscripciones 45€ a plataformas de pago 
 
-profesor
-organizacion desastre, no sabe usar teams no sabe lo que es un mural
+--pausa--
+organizacion desastre
+el cliente no sabe usar teams, no sabe lo que es un mural
 
-se muestra mural
+se muestra mural al cliente
 buba
 suscripciones de pago, el presupuesto
 se han encontraro app de pago 
@@ -41,7 +42,7 @@ una cosa que podemos decirle con respecto a CBOR
 con interrogacion como duda
 en este caso le diria que en este caso no le hace falta
 
-importante
+IMPORTANTE
 partidos empatados
 diferencia de goles
 
